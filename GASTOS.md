@@ -1,6 +1,6 @@
 layout: page
 title: "Gastos Chat"
-permalink: /GastosChat
+permalink: https://pharmagem-cto.github.io/GastosChat
 
 <!DOCTYPE html>
 <html lang="en">
